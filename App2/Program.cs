@@ -21,8 +21,8 @@ namespace ConsoleApp1
             {
                 Console.Write(item + new string(' ', 2));
             }
-            Console.ReadKey();
 
+            Console.ReadKey();
         }
     }
 }

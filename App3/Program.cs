@@ -35,6 +35,7 @@ namespace zadachi_2
             {
                 Console.Write(item + new string(' ', 2));
             }
+
             Console.ReadKey();
         }
     }
